@@ -1,5 +1,5 @@
 <head>
-	<title>The History of Women in the Workforce</title>
+	<title>The History of Women in the Professional World</title>
 	<style>
 		/*DESKTOP*/
 
@@ -57,7 +57,21 @@
 		}
 
 		#chart2 {
-			padding-top:250px;
+			padding-top:500px;
+			height:100%;
+			width:70%;
+			float:right;
+		}
+
+		#chart3 {
+			padding-top:550px;
+			height:65%;
+			width:70%;
+			float:right;
+		}
+
+		#chart4 {
+			padding-top:1000px;
 			height:100%;
 			width:70%;
 			float:right;
@@ -87,9 +101,8 @@
 
 		<div class="top">
 
-			<div class="flourish-embed" data-src="visualisation/143066"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 
-			<h1>The History of Women in the Workforce</h1>
+			<h1>The History of Women in the Professional World</h1>
 			<h3>A closer look at labor statistics and how the workplace has changed throughout history.</h3>
 			<h4>Katie Donahue</h4>
 			<p>Today’s work force is made of almost 50 percent women, but that was not always the case. Throughout history, the workplace has changed constantly due to technological advances and societal views.</p>
@@ -145,18 +158,27 @@
 			<p>The majority of women participating in the workforce work full-time.</p>
 
 			<p>The wage gap has also continued to decrease throughout the 2000s.</p>
-
 		</div>
+
 
 		<div id="chart1">
-			<div class="flourish-embed" data-src="visualisation/141266"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
-		</div>
-		
-		<div id="chart2"
-			<div class="flourish-embed" data-src="visualisation/141300"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+			<div class="flourish-embed" data-src="visualisation/143066"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
 		</div>
 
+		<div id="chart2">
+			<div class="flourish-embed" data-src="visualisation/141266"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+		</div>
+	
+		<div id="chart3">
 			<div class="flourish-embed" data-src="visualisation/141415"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+		</div>
+
+		<div id="chart4">
+			<div class="flourish-embed" data-src="visualisation/141300"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+			
+		</div>
+
+		</div>
 
 		</div>
 		
